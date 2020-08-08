@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100%" src="https://github.com/nurycaroline/nurycaroline/blob/master/assets/capa.png?raw=true" />
+ <img width="100%" src="https://media-exp1.licdn.com/dms/image/C4D16AQHXbskpRXA63A/profile-displaybackgroundimage-shrink_350_1400/0?e=1602115200&v=beta&t=U-wdWuiz5mKSfYyLbBzbfr_Pa_5zFhkbznl4YVqZmK4" />
 </p>
 
 ## Hello, I'm Nurielly! 👋
