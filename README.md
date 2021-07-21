@@ -3,13 +3,7 @@
 💻 FullStack Developer <br>
 ⚛️ ReactJS, React Native and NodeJS <br>
 
-<br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nurycaroline&hide_title=true&show_icons=true&title_color=1D929E&icon_color=46EEB4&text_color=1D929E&bg_color=333333" border=0 style="border:0; text-decoration:none; outline:none">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurycaroline&layout=compact&show_icons=true&title_color=1D929E&icon_color=46EEB4&text_color=1D929E&bg_color=333333&border=0%20style=%22border:0;%20text-decoration:none;%20outline:none&hide=java,objective-c">
-
-### Contact me 😊
 <a href="https://nury.dev/">nury.dev</a><br>
 
 <p style="display: flex; align-items: center; justfy-contnent: center;">
