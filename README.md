@@ -1,23 +1,44 @@
-<div align="center">
-	<img align="right" src="./assets/my-octocat.png" width='40%' />
-	<div align="left" width='60%'>
-		<h1 align="center">Oi 👋, eu sou a Nurielly ( Nury ) ✨.</h1>
-		<br />
-		<h3 align="center">Apaixonada pelo universo do desenvolvimento de software, em busca de fazer sempre o melhor.</h3>
-	</div>
-	<br />
-	<div align='center'>
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width='30' />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width='30' />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='30' />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width='30' />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width='30' />
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width='30' />
-	</div>
+
+
+<h3 align="center"><samp>&gt; Hi there, I'm Nurielly (Nury) 👋 </samp></h3>
+
+<p align="center"> <samp>I'm a Developer and Mentor</samp></p>
+
+<br />
+
+- 🔭 I’m currently working at [Gasola](https://www.gasola.net/) as CTO
+- 🤝 I currently created with my friend [Camila](https://github.com/araldicami), the [Dev Girls Mentor](https://discord.gg/8fCeuU63SW), where we help women to study programming.
+- <a href="https://www.nury.dev">Portólio</a>
+
+<br />
+
+---
+<br />
+<h3 align="center"><samp> ⚡ Techs </samp></h3>
+
+<div align='center'>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width='30' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width='30' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='30' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='30' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='30' />
 </div>
 <br />
+
+---
+
+<br />
+<h3 align="center"><samp> ⚡ Find me on </samp></h3>
+<br />
 <div align="center">
-	<a href="https://nury.dev">
-		Portfólio - Nury.dev
-	</a>
+  <!-- Gmail -->
+  <a href="mailto:nurycaroline@gmail.com" target="_blank">
+    <img alt="Gmail"
+          src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+  <!-- Linkedin -->
+  <a href="https://www.linkedin.com/in/nuriellybrizola" target="_blank">
+    <img alt="Linkedin"
+          src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>	  	  
 </div>
