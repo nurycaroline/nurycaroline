@@ -10,10 +10,8 @@
 - 🤝 I currently created with my friend [Camila](https://github.com/araldicami), the [Dev Girls Mentor](https://discord.gg/8fCeuU63SW), where we help women to study programming.
 - <a href="https://www.nury.dev">Portólio</a>
 
-<br />
-
 ---
-<br />
+
 <h3 align="center"><samp> ⚡ Techs </samp></h3>
 
 <div align='center'>
@@ -27,7 +25,6 @@
 
 ---
 
-<br />
 <h3 align="center"><samp> ⚡ Find me on </samp></h3>
 <br />
 <div align="center">
