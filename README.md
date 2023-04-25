@@ -7,7 +7,7 @@
 <br />
 
 - 🔭 I’m currently working at [Gasola](https://www.gasola.net/) as CTO
-- 🤝 I currently created with my friend [Camila](https://github.com/araldicami), the [Dev Girls Mentor](https://discord.gg/8fCeuU63SW), where we help women to study programming.
+- 🤝 I currently created the [Dev Girls Mentor](https://discord.gg/8fCeuU63SW), where we help women to study programming.
 - <a href="https://www.nury.dev">Portólio</a>
 
 ---
