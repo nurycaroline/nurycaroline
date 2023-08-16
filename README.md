@@ -6,9 +6,9 @@
 
 <br />
 
-- 🔭 I’m currently working at [Gasola](https://www.gasola.net/) as CTO
+- 🔭 I’m currently working at [Gasola](https://www.gasola.net/) as CTO and Coach at [Laboratoria](https://www.laboratoria.la/br)
 - 🤝 I currently created the [Dev Girls Mentor](https://discord.gg/8fCeuU63SW), where we help women to study programming.
-- <a href="https://www.nury.dev">Portólio</a>
+- 📓My <a href="https://www.nury.dev">Portólio</a>
 
 ---
 
@@ -20,6 +20,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width='30' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width='30' />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width='30' />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" width='30' />
+  <img src="https://simpleicons.org/icons/postgresql.svg" width='30' />
+  <img src="https://simpleicons.org/icons/pwa.svg" width='30' />
+  <img src="https://simpleicons.org/icons/amazonaws.svg" width='30' />
 </div>
 <br />
 
