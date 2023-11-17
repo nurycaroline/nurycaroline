@@ -6,8 +6,7 @@
 
 <br />
 
-- 🔭 I’m currently working at [Gasola](https://www.gasola.net/) as CTO, where I lead exciting tech projects.
-- 👩‍🏫 I also work as a Coach at [Laboratoria](https://www.laboratoria.la/br), helping aspiring developers kickstart their careers.
+- 🔭 I’m currently working at [Gasola](https://www.gasola.net/) as CTO.
 - 📓 Check out my portfolio at [nury.dev](https://www.nury.dev) to see my latest projects.
 
 ---
