@@ -11,7 +11,7 @@
 
 ---
 
-<h3 align="center"><samp> ⚡ Projects </samp></h3>
+<h3 align="center"><samp> ⚡ Best Projects </samp></h3>
 
 1. **Memory**
    - *Description*: A memory game featuring Disney characters.
