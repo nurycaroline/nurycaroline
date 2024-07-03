@@ -1,5 +1,7 @@
 # Oi! Sou a Nurielly (Nury) 👋
 
+<img align="right" src="./image.png" alt="Ilustração de um rosto" width="300px" />
+
 Desenvolvedora Full Stack em constante evolução (já são +10 anos!) e apaixonada por criar soluções inovadoras e experiências digitais incríveis.
 
 Adoro testar novas tecnologias e construir projetos divertidos e desafiadores, seja no trabalho ou como hobby.
