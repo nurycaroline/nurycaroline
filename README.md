@@ -9,7 +9,7 @@ Adoro testar novas tecnologias e construir projetos divertidos e desafiadores, s
 Sou uma profissional experiente e adaptável, com um histórico de sucesso em diversos projetos. Acredito que a tecnologia pode simplificar a vida das pessoas e me dedico a isso.
 
 - 🌱 Atualmente estou estudando Svelte e desenvolvimento de Jogos para Web
-- 👨‍💻 Você pode acessar todos os meu projeto em [www.nury.dev](www.nury.dev)
+- 👨‍💻 Você pode acessar todos os meu projeto em [www.nury.dev](https://www.nury.dev)
 - 💬 Pergunte-me sobre: Codigo, Board games, video games e livros de aventura
 - 📫 Para entrar em contato comigo: <a href="mailto:nurycaroline@gmail.com">nurycaroline@gmail.com</a>
 - 💼 Atualmente trabalho no Gasola como CTO
@@ -61,3 +61,4 @@ Sou uma profissional experiente e adaptável, com um histórico de sucesso em di
 	 	<img src="https://img.icons8.com/?size=100&id=118627&format=png&color=000000" alt="google play" />
 	 </a>
 </div>
+
