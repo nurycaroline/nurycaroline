@@ -25,18 +25,10 @@ Sou uma profissional experiente e adaptável, com um histórico de sucesso em di
 	<img height="60px" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" alt="Postgres" />
 	<img height="60px" src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=000000" alt="Next" />
 	<img height="60px" src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" alt="React" />
-	<img height="60px" src="https://img.icons8.com/?size=100&id=EXZGX2xYvaYn&format=png&color=000000" alt="Recoil" />
+	<img height="60px" src="https://img.icons8.com/?size=100&id=1649&format=png&color=000000" alt="Recoil" />
 	<img height="60px" src="https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000" alt="Sass" />
 	<img height="60px" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="StyledComponents" />
 
-</div>
-
-## 📚 o que estou estudando
-
-<div>
-	<img height="60px" src="https://img.icons8.com/?size=100&id=Mm35TzLKahiF&format=png&color=000000" alt="Svelte" />
-	<img height="60px" src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" alt="NestJS" />
-	<img height="60px" src="https://img.icons8.com/?size=100&id=zdI5E8moxhs-&format=png&color=000000" alt="GraphQL" />
 </div>
 
 ## 🌐 Entre em contato
@@ -61,4 +53,5 @@ Sou uma profissional experiente e adaptável, com um histórico de sucesso em di
 	 	<img src="https://img.icons8.com/?size=100&id=118627&format=png&color=000000" alt="google play" />
 	 </a>
 </div>
+
 
